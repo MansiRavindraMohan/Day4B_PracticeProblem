@@ -19,8 +19,11 @@
             //MinMax minMax = new MinMax();
             //minMax.MinMaxMethod();
 
-            ReverseString reverseString = new ReverseString();
-            reverseString.ReverseStringMethod();
+            //ReverseString reverseString = new ReverseString();
+            //reverseString.ReverseStringMethod();
+
+            SumOfDigits sumOfDigits = new SumOfDigits();
+            sumOfDigits.DigitMethod();
             Console.ReadLine();
         }
     }
