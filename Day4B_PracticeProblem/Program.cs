@@ -16,8 +16,11 @@
             //FrequencyOfArray frequencyOfArray = new FrequencyOfArray();
             //frequencyOfArray.MethodFrequency();
 
-            MinMax minMax = new MinMax();
-            minMax.MinMaxMethod();
+            //MinMax minMax = new MinMax();
+            //minMax.MinMaxMethod();
+
+            ReverseString reverseString = new ReverseString();
+            reverseString.ReverseStringMethod();
             Console.ReadLine();
         }
     }
