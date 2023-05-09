@@ -4,8 +4,11 @@
     {
         public static void Main(string[] args)
         {
-            Pattern pattern = new Pattern();
-            pattern.DisplayPattern();
+            //Pattern pattern = new Pattern();
+            //pattern.DisplayPattern();
+
+            ArrayCount arrayCount = new ArrayCount();
+            arrayCount.MethodArrayCount();
         }
     }
 }
