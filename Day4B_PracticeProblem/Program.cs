@@ -7,8 +7,12 @@
             //Pattern pattern = new Pattern();
             //pattern.DisplayPattern();
 
-            ArrayCount arrayCount = new ArrayCount();
-            arrayCount.MethodArrayCount();
+            //ArrayCount arrayCount = new ArrayCount();
+            //arrayCount.MethodArrayCount();
+
+            UniqueElement uniqueElement= new UniqueElement();
+            uniqueElement.UniqueElementMethod();
+            Console.ReadLine();
         }
     }
 }
